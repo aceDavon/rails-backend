@@ -34,7 +34,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails-React <a name="about-project"></a>
+# 📖 Hello Rails-Backend <a name="about-project"></a>
 
 
 
