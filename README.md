@@ -69,7 +69,7 @@
 
 <!-- LIVE DEMO -->
 
-- in progress :smile: [Live Demo Link](https://yourdeployedapplicationlink.com)
+- in progress :smile: [Front End Link](https://github.com/aceDavon/react-front)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
