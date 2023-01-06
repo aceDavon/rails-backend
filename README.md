@@ -38,19 +38,11 @@
 
 
 
-**Hello Rails-React** Rails-React is bulit to practice working with Rails and React as front-end. This project was built to satisfy the Microverse Module 6 block 1 requirement and is MIT Licensed.
+**Rails Backend** Rails Backend is bulit to practice working with Rails and React as front-end. This project was built to satisfy the Microverse Module 6 block 1 requirement and is MIT Licensed.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>HTML, JSX, tailwindCSS</li>
-    <li>JavaScript, React, Redux</li>
-  </ul>
-</details>
 
 <details>
   <summary>Server</summary>
